@@ -9,7 +9,6 @@ You can visit the program in [http://www.icir.org/christian/sock.html](http://ww
 bash autogen.sh
 make
 sudo make install
-
 ```
 
 #How to use 
