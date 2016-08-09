@@ -1,6 +1,8 @@
 # What's this
 
-This is the sock program metioned in \<TCP/IP Illustrated\> Vol.1, I just transported it to github.You can visit the author's mainpage in [http://www.icir.org/christian/index.html](http://www.icir.org/christian/index.html)
+This is Richard Stevens' sock program metioned in \<TCP/IP Illustrated\> Vol.1, and updated by Christian Kreibich so that it can run on Linux FreeBSD and Mac OS X, I just transported it to github.
+
+You can visit the program in [http://www.icir.org/christian/sock.html](http://www.icir.org/christian/sock.html), or visit the author's mainpage in [http://www.icir.org/christian/index.html](http://www.icir.org/christian/index.html)
 
 # How to install
 ```
@@ -64,4 +66,4 @@ options: -b n  bind n as client's local port number
   -Z    MSG_PEEK
 ```
 
-(cc)Christian Kreibich 
+(cc) Christian Kreibich 
