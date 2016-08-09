@@ -1,6 +1,6 @@
 # What's this
 
-this is the sock program in <TCP/IP Illustrated> Vol.1
+This is the sock program metioned in \<TCP/IP Illustrated\> Vol.1, I just transported it to github.You can visit the author's mainpage in [http://www.icir.org/christian/index.html](http://www.icir.org/christian/index.html)
 
 # How to install
 ```
