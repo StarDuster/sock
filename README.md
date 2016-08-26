@@ -1,6 +1,6 @@
 # What's this
 
-This is Richard Stevens' sock program metioned in \<TCP/IP Illustrated\> Vol.1, and updated by Christian Kreibich so that it can run on Linux FreeBSD and Mac OS X, I just transported it to github.
+This is Richard Stevens' sock program metioned in _TCP/IP Illustrated_ Vol.1, and updated by Christian Kreibich so that it can run on Linux FreeBSD and Mac OS X, I just transported it to github.
 
 You can visit the program in [http://www.icir.org/christian/sock.html](http://www.icir.org/christian/sock.html), or visit the author's mainpage in [http://www.icir.org/christian/index.html](http://www.icir.org/christian/index.html)
 
